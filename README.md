@@ -1,2 +1,4 @@
 # tidytuesday_lisa
-Working with tidytuesday data
+Location where I will explore (tidytuesday)[https://github.com/rfordatascience/tidytuesday] data!
+
+
